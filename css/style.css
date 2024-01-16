@@ -770,7 +770,7 @@ ul.nav li.active a:before {
   margin-left: -10px;
   border-width: 10px;
   border-style: solid;
-  border-color: #5dd1c6 transparent transparent transparent;
+  border-color: #92530c transparent transparent transparent;
 }
 #portfolio .portfolio-filter > li:first-child a {
   border-radius: 4px 0 0 4px;
@@ -807,7 +807,7 @@ ul.nav li.active a:before {
 }
 #portfolio .portfolio-item:hover .portfolio-info i.fa {
   font-size: 30px;
-  color: #5dd1c6;
+  color: #92530c;
 }
 /* Start: Recommended Isotope styles */
 /**** Isotope Filtering ****/
@@ -901,9 +901,9 @@ ul.nav li.active a:before {
   display: inline-block;
   width: 116px;
   height: 116px;
-  background-image: -moz-linear-gradient(90deg, #5dd1c6 0%, #5dd1c6 100%);
-  background-image: -webkit-linear-gradient(90deg, #5dd1c6 0%, #5dd1c6 100%);
-  background-image: -ms-linear-gradient(90deg, #5dd1c6 0%, #5dd1c6 100%);
+  background-image: -moz-linear-gradient(90deg, #92530c 0%, #92530c 100%);
+  background-image: -webkit-linear-gradient(90deg, #92530c 0%, #92530c 100%);
+  background-image: -ms-linear-gradient(90deg, #92530c 0%, #92530c 100%);
   color: #fff;
   border-radius: 100px;
   border: 5px solid #f6f6f6;
@@ -1000,7 +1000,7 @@ ul.nav li.active a:before {
   color: #3f729b;
 }
 .team-desc ul.team-social-icon li a i.fa:hover.fa-google-plus {
-  color: #dc4e41;
+  color: #92530c;
 }
 /*Testimonials-stylesheets-include-here*/
 #testimonials {
@@ -1011,7 +1011,7 @@ ul.nav li.active a:before {
 }
 
 #testimonials .owl-theme .owl-controls .owl-page span {
-  background: #5dd1c6;
+  background: #92530c;
 }
 .quote {
   position: relative;
@@ -1242,15 +1242,15 @@ textarea.form-control {
   padding: 25%;
 }
 #footer-down ul li.facebook i.fa:hover {
-  color: #3b5998;
-  border: 2px solid #3b5998;
+  color: #92530c;
+  border: 2px solid #92530c;
 }
 #footer-down ul li.twitter i.fa:hover {
   color: #00aced;
   border: 2px solid #92530c;
 }
 #footer-down ul li.linkedin i.fa:hover {
-  color: #007bb6;
+  color: #92530c;
   border: 2px solid #92530c;
 }
 #footer-down ul li.google-plus i.fa:hover {
@@ -1262,12 +1262,12 @@ textarea.form-control {
   border: 2px solid #bb0000;
 }
 #footer-down ul li.instagram i.fa:hover {
-  color: #517fa4;
-  border: 2px solid #517fa4;
+  color: #92530c;
+  border: 2px solid #92530c;
 }
 #footer-down ul li.behance i.fa:hover {
-  color: #1769ff;
-  border: 2px solid #1769ff;
+  color: #92530c;
+  border: 2px solid #92530c;
 }
 
 /*Index-1-Stylesheets-End-Here*/
@@ -1453,7 +1453,7 @@ a.btn-learn {
   top: 40px;
 }
 a.btn-learn:hover {
-  background: #5dd1c6;
+  background: #92530c;
   color: #fff;
   transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -1520,11 +1520,11 @@ a.btn-learn:hover {
   margin-left: -320px;
   margin-top: 25vh;
   font-size: 25px;
-  color: #5dd1c6;
+  color: #92530c;
 }
 
 .current_progress {
-  background-color: #e25c5a;
+  background-color: #710200;
 }
 
 p.text_size {
@@ -1540,7 +1540,7 @@ h5.about {
 h6.batch {
   color: #ffffff;
   text-transform: capitalize;
-  background-color: #4dada3;
+  background-color: #92530c;
   padding: 5px;
   margin-top: 30px;
 }
@@ -1623,7 +1623,7 @@ svg.dicon {
 }
 
 h2.ptitle {
-  color: #4dada3;
+  color: #92530c;
   text-align: left;
 }
 h2.mtitle {
@@ -1664,7 +1664,7 @@ h2.title1 {
 }
 
 .beautiful-button:hover {
-  background: #1b8a7f;
+  background: #92530c;
   color: white; /* Set text color to white on hover */
   text-decoration: none; /* Remove underline on hover if necessary */
 }
